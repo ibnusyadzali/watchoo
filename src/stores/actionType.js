@@ -1,0 +1,5 @@
+export const MOVIE_GET_TRENDING = "movie/getTrending"
+export const MOVIE_GET_MOVIE_DETAIL = "movie/getMovieDetail"
+export const MOVIE_GET_ALL_GENRES = "movie/getAllGenres"
+export const MOVIE_GET_SEARCH_MOVIES = "movie/getSearchMovies"
+export const MOVIE_GET_MOVIES_BY_GENRE = "movie/getMoviesByGenre"
